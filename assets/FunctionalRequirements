@@ -1,0 +1,22 @@
+Als <ROL>
+wil ik <FUNCTIONALITEIT>
+zodat ik <reden / toegevoegde waarde / noodzaak>
+
+Functionele eisen:
+1. Als admin wil ik TV producten kunnen toevoegen zodat klanten deze kunnen zien/kopen
+2. Als admin wil ik muurbeugel producten kunnen toevoegen zodat klanten deze kunnen zien/kopen
+3. Als admin wil ik afstandbedieng producten kunnen toevoegen zodat klanten deze kunnen zien/kopen
+4. Als admin wil ik CI-module producten kunnen toevoegen zodat klanten deze kunnen zien/kopen
+5. Als admin wil ik de naam en beschrijving van TV producten kunnen aanpassen zodat alles up to date is
+6. Als admin wil ik de naam en beschrijving van muurbeugelproducten kunnen aanpassen zodat alles up to date is
+7. Als admin wil ik de naam en beschrijving van afstandbediening producten kunnen aanpassen zodat alles up to date is
+8. Als admin wil ik de naam en beschrijving van CI-module producten kunnen aanpassen zodat alles up to date is
+9. Als medewerker wil ik zien wat de voorraad is van een product zodat ik klanten beter kan informeren
+10. Als medewerker wil ik zien welke producten in combinatie werken met elkaar zodat ik klanten beter kan informeren
+11. Als admin wil ik zien welke producten er verkocht worden zodat ik weet welke producten het populairst zijn
+12. Als admin wil ik de product combinaties kunnen toevoegen zodat de klant de juiste producten met elkaar koopt
+13. Als admin wil ik bestaande producten kunnen verwijderen zodat het assortiment up to date is
+14. Als admin wil ik TV producten kunnen verwijderen zodat ik het assortiment up to date kan houden
+15. Als admin wil ik muurbeugel producten kunnen verwijderen zodat ik het assortiment up to date kan houden
+16. Als admin wil ik afstandbediening producten kunnen verwijderen zodat ik het assortiment up to date kan houden
+17. Als admin wil ik CI-module producten kunnen verwijderen zodat ik het assortiment up to date kan houden
